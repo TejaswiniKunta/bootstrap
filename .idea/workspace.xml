@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4236fc1b-4632-4cfe-bfa0-56792c71a3e1" name="Default Changelist" comment="" />
+    <list default="true" id="4236fc1b-4632-4cfe-bfa0-56792c71a3e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jlNV40Kefe6tRMv4tTkAw1pVXP" />
   <component name="ProjectViewState">
@@ -27,11 +35,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604374739755</updated>
-      <workItem from="1604374741423" duration="600000" />
+      <workItem from="1604374741423" duration="1069000" />
+      <workItem from="1605411050005" duration="3000" />
+      <workItem from="1605587004064" duration="888000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="202" key="GridCell.Tab.0.bottom" timestamp="1604376352012">
+      <screen x="0" y="23" width="1440" height="789" />
+    </state>
+    <state width="1419" height="202" key="GridCell.Tab.0.bottom/0.23.1440.789@0.23.1440.789" timestamp="1604376352012" />
+    <state width="1419" height="202" key="GridCell.Tab.0.center" timestamp="1604376352012">
+      <screen x="0" y="23" width="1440" height="789" />
+    </state>
+    <state width="1419" height="202" key="GridCell.Tab.0.center/0.23.1440.789@0.23.1440.789" timestamp="1604376352012" />
+    <state width="1419" height="202" key="GridCell.Tab.0.left" timestamp="1604376352012">
+      <screen x="0" y="23" width="1440" height="789" />
+    </state>
+    <state width="1419" height="202" key="GridCell.Tab.0.left/0.23.1440.789@0.23.1440.789" timestamp="1604376352012" />
+    <state width="1419" height="202" key="GridCell.Tab.0.right" timestamp="1604376352012">
+      <screen x="0" y="23" width="1440" height="789" />
+    </state>
+    <state width="1419" height="202" key="GridCell.Tab.0.right/0.23.1440.789@0.23.1440.789" timestamp="1604376352012" />
   </component>
 </project>
